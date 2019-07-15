@@ -1,7 +1,7 @@
 {
   "name": "postmates-client",
   "version": "1.0.0",
-  "main": "postmatesClient.js",
+  "main": "lib/postmatesClient.js",
   "repository": "https://github.com/DestinyLuong/postmatesClient.git/",
   "author": "Destiny Luong <destinyul2010@gmail.com>",
   "description": "",
